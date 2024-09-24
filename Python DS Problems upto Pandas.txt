@@ -1,0 +1,139 @@
+Type Checking
+Take Input and check type
+String Slicing
+String Concatenation
+String Methods
+Exercise - 1
+1. Write a program to display a user entered name followed by Good Afternoon using input()
+2. Write a program to detect single space in a string
+Lists
+List Methods
+Tuples
+Tuple Methods
+Exercise - 2
+1. WAP to store the name of seven fruits in a list entered by the user
+2. WAP to accept marks of 10 students and display them in a sorted order
+3. WAP to count number of zeros in a given tuple and check that a tuple cannot be changed
+4. WAP to find the sum of list with 4 numbers
+Dictionary
+Sets
+Exercise - 3
+1. WAP to create a dictionary of Bengali words with values as their English translation . Provide the user with an optiont to look it up
+2. WAP to input 8 numbers from the user and display all the unique numbers
+3. Create an empty dictionary. Allow 4 friends to enter their favourite language as values and use keys as their names. Assume that the names are unique.
+
+
+
+Read from a file and write to another file
+
+
+
+Fibonacci
+Non prime numbers within a range
+Fibo Prime within a range
+Check Duck Number
+Duck Number within a given range
+Non fibo
+
+Lambda Functions
+Syntax :- lambda agruments:expression
+Adding 4 to a number
+Multiplication of two numbers
+Square of a function
+Add three numbers
+Using lambda function with filter()
+Odd numbers in a list using filter()
+Using lambda function with map()
+Square all the entries in a list
+Lambda List Comprehension
+Lambda function with if else
+Minimum of two
+Lambda function with multiple statements at once
+Second largest number
+Assignments
+Even Squares
+Number of vowels
+Factorial of a list
+Perfect Number from a given list
+
+
+
+Appending Contents to a file in Python
+Taking only the lines starting with "this" or "This"
+Moving a file pointer to a position (seek and tell)
+Deleting a file
+Removing a folder¶
+"sys" and "os" libraries
+
+
+
+Create numpy arrray and print the even numbers
+Countries and Employment
+Slicing
+Data Types
+Loops and Formatting in print
+Numpy Functions
+roll, name, marks and print the maximum
+Vectorized Operations
+Working with vectors
+Logical operations
+Comparison between two arrays
+Comparison with a scalar value
+Creating index array using vector operations
+Incrementation and Assignment¶
+Slicing
+Two dimensional data
+
+
+
+Axis Value
+Sum of two 2d matrices
+Product of two 2d matrices
+Ridership example
+Reshaping
+Numpy Datatype
+
+
+Pandas Version
+Help
+SERIES (1D)
+Make a series from a list
+Type checking
+Empty series
+Create series
+Change Index values
+Change Index values as well as datatype
+Series of single element or scalar series
+One element several number of times
+Convert dictionary to series (also a case of modifying index values)
+Access series element
+Addition of two series
+Min, Max
+find element with condition
+Delete element from a series
+Absent Index value (NaN)
+DATAFRAME (2D)
+Create an empty dataframe
+Convert list to Dataframe
+Covert 2D List to Dataframe
+Covert Dictionary to Dataframe (it also modifies the column index)
+Insufficient Data
+Fetch CSV Files
+Take only the first 5 rows
+Take only specified columns
+Skip number of rows from the beginning
+Type of dataframe
+Head (returns first 5 rows)
+Tail (returns last 5 rows)
+Name of the columns
+Describe (Gives statistical parameters of each of the columns)
+Info (Data about the data)
+Change the index column with an existing column of the dataframe
+Header
+Change column names
+LOC (returns any number of rows)
+ILOC (Same as Loc but loc takes binary labels but it takes integer integer values)
+OS
+Get current working directory
+
+
